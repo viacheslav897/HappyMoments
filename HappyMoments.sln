@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.26430.15
+VisualStudioVersion = 15.0.26711.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HappyMoments", "HappyMoments\HappyMoments.csproj", "{1611907A-26CE-425D-BFB5-710E1716BC1D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HappyMoments", "HappyMoments\HappyMoments.csproj", "{640B053E-FB43-458B-8B26-B0FE6FC2FEBD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,12 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{1611907A-26CE-425D-BFB5-710E1716BC1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{1611907A-26CE-425D-BFB5-710E1716BC1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{1611907A-26CE-425D-BFB5-710E1716BC1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{1611907A-26CE-425D-BFB5-710E1716BC1D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{640B053E-FB43-458B-8B26-B0FE6FC2FEBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{640B053E-FB43-458B-8B26-B0FE6FC2FEBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{640B053E-FB43-458B-8B26-B0FE6FC2FEBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{640B053E-FB43-458B-8B26-B0FE6FC2FEBD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {26447F8A-3E8C-4C92-8BE2-3C45C5F92E28}
 	EndGlobalSection
 EndGlobal
